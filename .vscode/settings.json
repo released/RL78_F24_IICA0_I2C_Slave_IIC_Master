@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "custom_func.h": "c",
+        "misc_config.h": "c",
+        "iic10_simple_i2c_driver.h": "c",
+        "retarget.h": "c",
+        "r_cg_userdefine.h": "c",
+        "r_cg_iica.h": "c",
+        "config_iic10.h": "c",
+        "iica0_slave_driver.h": "c",
+        "stdio.h": "c",
+        "xutility": "c"
+    }
+}

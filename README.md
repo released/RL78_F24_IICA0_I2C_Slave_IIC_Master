@@ -1,0 +1,2 @@
+# RL78_F24_IICA0_I2C_Slave_IIC_Master
+RL78_F24_IICA0_I2C_Slave_IIC_Master
