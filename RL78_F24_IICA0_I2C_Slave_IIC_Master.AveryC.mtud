@@ -77,6 +77,10 @@
       <EventFunction-SaveTraceNumber>1</EventFunction-SaveTraceNumber>
       <EventFunction-SaveNumberOfProcessorElement>1</EventFunction-SaveNumberOfProcessorElement>
       <EventFunction-SaveNumberOfTimerChannel>0</EventFunction-SaveNumberOfTimerChannel>
+      <DeviceChangedCounter>0</DeviceChangedCounter>
+      <DeviceName>R7F124FPJ5xFB</DeviceName>
+      <DebuggerProperty-OptionalProperty-Assemble-DisplaySymbol>SymbolOffset</DebuggerProperty-OptionalProperty-Assemble-DisplaySymbol>
+      <DebuggerProperty-OptionalProperty-Assemble-DisplayFunctionName>Yes</DebuggerProperty-OptionalProperty-Assemble-DisplayFunctionName>
     </Instance>
   </Class>
   <Class Guid="2c267d36-9968-416b-8f39-cfcf1e069830">
@@ -2139,7 +2143,7 @@ FirstVisiblePosition:Right,26,0
 HorizontalSplitPercentage:0.00
 ActiveViewPlacement:Right
 CaretPosition:0,0
-FirstVisiblePosition:Right,191,0
+FirstVisiblePosition:Right,164,0
 </StatusText11>
     </Instance>
   </Class>
@@ -2164,7 +2168,7 @@ ea2fd2ef-b791-4398-9f8a-6bf5a4a22220
 2515c83c-c1f4-4a10-b6e7-ba3f37539bab
 0d845658-4699-4086-9b97-e8d13c75f129
 </ExtendedItems>
-      <TopItem>4db395c2-52b0-4d1f-9eb8-1d402ecd2183</TopItem>
+      <TopItem>e507ca4a-0101-45c2-becc-2852171c45b5</TopItem>
       <ViewMode>2</ViewMode>
       <ViewModeToggle>False</ViewModeToggle>
     </Instance>
